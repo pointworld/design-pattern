@@ -1,2 +1,3 @@
-// import './class'
-import './promise'
+// import './oop/class'
+// import './designPrinciple/example/promise'
+import '../case/case1'

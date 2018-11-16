@@ -1,8 +1,9 @@
 class LoginForm {
   constructor() {
-    this.instance = null
     this.state = 'hide'
   }
+
+  static instance = null
 
   static getInstance() {
     if (!this.instance) {

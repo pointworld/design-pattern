@@ -3,4 +3,5 @@
 // import '../case/case1'
 // import '../case/case2'
 // import './designPattern/creational/factoryPattern'
-import './designPattern/creational/singletonPattern'
+// import './designPattern/creational/singletonPattern'
+import './designPattern/creational/singletonPattern/demo/simulateLogin'

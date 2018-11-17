@@ -5,4 +5,5 @@
 // import './designPattern/creational/factoryPattern'
 // import './designPattern/creational/singletonPattern'
 // import './designPattern/creational/singletonPattern/demo/simulateLogin'
-import './designPattern/structural/adapterPattern'
+// import './designPattern/structural/adapterPattern'
+import './designPattern/structural/decoratorPattern'

@@ -4,4 +4,5 @@
 // import '../case/case2'
 // import './designPattern/creational/factoryPattern'
 // import './designPattern/creational/singletonPattern'
-import './designPattern/creational/singletonPattern/demo/simulateLogin'
+// import './designPattern/creational/singletonPattern/demo/simulateLogin'
+import './designPattern/structural/adapterPattern'

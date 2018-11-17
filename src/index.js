@@ -10,4 +10,5 @@
 // import './designPattern/structural/decoratorPattern/demo/decorationClass'
 // import './designPattern/structural/decoratorPattern/demo/decorationClassWithArgs'
 // import './designPattern/structural/decoratorPattern/demo/decorationClassByMixin'
-import './designPattern/structural/decoratorPattern/demo/decorationMethod'
+// import './designPattern/structural/decoratorPattern/demo/decorationMethod'
+import './designPattern/structural/decoratorPattern/demo/core-decorators'

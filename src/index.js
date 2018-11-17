@@ -14,4 +14,5 @@
 // import './designPattern/structural/decoratorPattern/demo/core-decorators'
 // import './designPattern/structural/proxyPattern'
 // import './designPattern/structural/proxyPattern/demo/es6Proxy'
-import './designPattern/behavioral/observerPattern'
+// import './designPattern/behavioral/observerPattern'
+import './designPattern/behavioral/iteratorPattern'

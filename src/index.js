@@ -16,4 +16,5 @@
 // import './designPattern/structural/proxyPattern/demo/es6Proxy'
 // import './designPattern/behavioral/observerPattern'
 // import './designPattern/behavioral/iteratorPattern'
-import './designPattern/behavioral/iteratorPattern/demo/es6-iterator'
+// import './designPattern/behavioral/iteratorPattern/demo/es6-iterator'
+import './designPattern/behavioral/statePattern'

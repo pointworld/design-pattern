@@ -19,4 +19,4 @@
 // import './designPattern/behavioral/iteratorPattern/demo/es6-iterator'
 // import './designPattern/behavioral/statePattern'
 // import './designPattern/behavioral/statePattern/demo/finite-state-machine'
-import './designPattern/behavioral/statePattern/demo/promise'
+import './designPattern/creational/prototypePattern'

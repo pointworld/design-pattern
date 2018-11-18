@@ -24,4 +24,5 @@
 // import './designPattern/behavioral/strategyPattern'
 // import './designPattern/behavioral/chainOfResponsibilityPattern'
 // import './designPattern/behavioral/commandPattern'
-import './designPattern/behavioral/mementoPattern'
+// import './designPattern/behavioral/mementoPattern'
+import './designPattern/behavioral/mediatorPattern'

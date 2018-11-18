@@ -23,4 +23,5 @@
 // import './designPattern/structural/bridgePattern'
 // import './designPattern/behavioral/strategyPattern'
 // import './designPattern/behavioral/chainOfResponsibilityPattern'
-import './designPattern/behavioral/commandPattern'
+// import './designPattern/behavioral/commandPattern'
+import './designPattern/behavioral/mementoPattern'

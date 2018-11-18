@@ -20,4 +20,5 @@
 // import './designPattern/behavioral/statePattern'
 // import './designPattern/behavioral/statePattern/demo/finite-state-machine'
 // import './designPattern/creational/prototypePattern'
-import './designPattern/structural/bridgePattern'
+// import './designPattern/structural/bridgePattern'
+import './designPattern/behavioral/strategyPattern'
